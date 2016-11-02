@@ -13,5 +13,7 @@ Sekolah : SMK Telkom Malang
 NIS : 4273/1171.071
 
 #Screenshot Aplikasi
-![screenshot_2016-10-12-21-52-21](https://cloud.githubusercontent.com/assets/13633252/19315194/fcc14a08-90c6-11e6-8122-d2006308e1a2.jpg)
-![screenshot_2016-10-12-21-52-17](https://cloud.githubusercontent.com/assets/13633252/19315195/fcc5adbe-90c6-11e6-968c-2d404895f495.jpg)
+
+![screenshot_2016-11-02-13-38-56](https://cloud.githubusercontent.com/assets/13633252/19917846/5ff1c76e-a0f9-11e6-812e-f64ff5dda948.png)
+
+![screenshot_2016-11-02-13-39-01](https://cloud.githubusercontent.com/assets/13633252/19917847/5ff65860-a0f9-11e6-8e23-3a8130ed5ee5.png)
